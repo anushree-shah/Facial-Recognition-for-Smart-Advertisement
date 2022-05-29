@@ -12,7 +12,7 @@ Tools used :
 How to Run the code:
 - Have Python, OpenCv and Flask installed on the device
 - Have a webcam connected to the device or a camera 
-- Have the Caffe models for face detection and age and gender and dataset.csv downloaded on the device 
+- Have the Caffe models for face detection and age and gender detection and dataset.csv downloaded on the device 
 - Additionally, try remaining as still as possible while running the code to get accurate output
 - press 'q' to exist the webcam and display the output when satisfied by the estimate
 
