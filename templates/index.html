@@ -1,0 +1,22 @@
+
+<head>
+    <title>Client Homepage</title>
+    <style>
+        div {text-align: center;}
+    </style>
+</head>
+<body style="background-color:powderblue;">
+<div>
+    <h1 class="mt-5">Company XYZ website</h1>
+    <p>This website will access your camera</p>
+    {% if detectAge %}
+        <p>User data extracted:</p>
+        <p>Age detected = 20-30</p>
+        <p>Gender detected =Female</p>
+        <p>Suggested advertisements: </p>
+        {% for ad in adlist %}
+            <p>ad</p>
+        {% endfor %}
+    {% endif %}
+</div>
+ </body>
