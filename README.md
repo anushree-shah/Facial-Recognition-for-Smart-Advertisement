@@ -1,4 +1,4 @@
-# Facial REcognition for Smart Advertisement
+# Facial Recognition for Smart Advertisement
 A web application that uses real-time face detection using webcam to extract data like age and gender to provide user with smarter advertisement
 
 Tools used :
